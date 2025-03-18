@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WebSocketBP.cpp.obj": [
+			"VolcengineASRActor.gen.cpp.obj",
+			"WebSocketBP.init.gen.cpp.obj",
+			"WSAudioCaptureSubsystem.gen.cpp.obj",
+			"WSClientSubsystem.gen.cpp.obj",
+			"WSJsonUtils.gen.cpp.obj",
+			"VolcengineASRActor.cpp.obj",
+			"WSAudioCaptureSubsystem.cpp.obj",
+			"WSClientSubsystem.cpp.obj",
+			"WSJsonUtils.cpp.obj",
+			"WebSocketBP.cpp.obj"
+		]
+	}
+}

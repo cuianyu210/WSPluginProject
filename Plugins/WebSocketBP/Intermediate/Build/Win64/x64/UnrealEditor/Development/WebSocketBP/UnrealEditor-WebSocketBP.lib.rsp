@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WebSocketBP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Codes\UECodes\WSPluginProject\Intermediate\Build\Win64\x64\WSPluginProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"E:\Codes\UECodes\WSPluginProject\Plugins\WebSocketBP\Intermediate\Build\Win64\x64\UnrealEditor\Development\WebSocketBP\Module.WebSocketBP.cpp.obj"
+"E:\Codes\UECodes\WSPluginProject\Plugins\WebSocketBP\Intermediate\Build\Win64\x64\UnrealEditor\Development\WebSocketBP\Default.rc2.res"
+/OUT:"E:\Codes\UECodes\WSPluginProject\Plugins\WebSocketBP\Intermediate\Build\Win64\x64\UnrealEditor\Development\WebSocketBP\UnrealEditor-WebSocketBP.lib"
